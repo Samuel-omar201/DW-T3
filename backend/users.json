@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Sam",
+      "email": "test@demo.com",
+      "password": "1234",
+      "dpi": "3004234560101"
+    },
+    {
+      "name": "Sam",
+      "email": "test@demo.com",
+      "password": "1234",
+      "dpi": "3004234560102"
+    },
+    {
+      "name": "Sam",
+      "email": "test@demo.com",
+      "password": "1234",
+      "dpi": "3004234560103"
+    }
+  ]
